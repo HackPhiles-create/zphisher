@@ -1,0 +1,2 @@
+# zphisher
+☠️Phishing Tool☠️
