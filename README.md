@@ -2,6 +2,8 @@
 
 🔴Follow My Commands🔴
 
+💻Desktop Mode On 💻
+
 $apt update
 
 $apt install git curl php openssh -y
